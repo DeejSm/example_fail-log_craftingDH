@@ -21,11 +21,12 @@ Will take these as far as I can despite the command line problem.
 Ecercise 1 - Explore the databases. Searched for a metal smith ie a Smith "faber ferrarius" but got an error message. Ah well, my ancestors may have been skilled artisans but often did not get into the top billing.
 
 Will not search for "Smith" in the war graves as I do not wish to be overwhelmed by hits but will look for two more useful names from my genealogical work - a middle of the pack name SELL and an obscure name VALLELY / VALLILLEE. For the Sells found 47 records. For the Vallely's 12 and for Vallillee 1 - what I expected. 
-Downloaded the Sell file and then went to file manager and uploaded it to DH. Might as well keep it there. However, it is also on my computer on the desktop as sellfile.csv [good thing as could not open the dhbox version in command but likely this is because it is a spreadsheet file. Will try later in the statistical tab.
+Sell results url https://www.cwgc.org/find/find-war-dead/results?lastName=sell
+Downloaded the Sell file and then went to file manager and uploaded it to DH. as well as to my computer on the desktop as sellfile.csv [good thing as could not open the dhbox version in command but perhaps this is because it is a spreadsheet file. Will try later in the statistical tab.
 Overall No issues
 
 Friday - went back at the command line problem. Still not working. Reread the getting started messages and saw a suggestion to try a different browser. Pulled out my trusty Safari which I have not used in the Carleton environment for a number of years due to it hanging up constantly - according to the tech guys because Chrome was the standard I had to use. Copied the url for the sign-in page from the Chrome bookmark, put it in Safari, opened DH and signed-in etc, opened the Command Line tab and its there! Checked File manager and the sell file I put there last session still there. All well.
-But not quite as I am now using two browsers increasing the problem I already had with too many windows open.
+But not quite as I am now using two browsers increasing the problem I already had with too many windows open. Also can't copy between the browsers increasing opportunity for error.
 
 Trumpeted the triumph which gave me a chance to figure out how to post a message on git.
 I will continue to work on module 2 until I am forced to go back to bring in the P file.
