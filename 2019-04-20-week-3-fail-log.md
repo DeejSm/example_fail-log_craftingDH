@@ -32,3 +32,22 @@ Trumpeted the triumph which gave me a chance to figure out how to post a message
 I will continue to work on module 2 until I am forced to go back to bring in the P file.
 
 Module 2
+So much for triumph
+
+trying to find the work file
+No directory, logging in with HOME=/
+deejsm@424106af759d:/$ nano dhbox-wk1-history.md
+deejsm@424106af759d:/$ nano dhbox-work-today.md
+deejsm@424106af759d:/$ dir
+bin   brackets-server  etc   lib    mallet  mnt  proc  rstudio.deb  sbin  sys  usr  wget-activehistory
+boot  dev              home  lib64  media   opt  root  run          srv   tmp  var
+deejsm@424106af759d:/$ cd home
+deejsm@424106af759d:/home$ nano work-today.md
+deejsm@424106af759d:/home$ history
+    1  nano dhbox-wk1-history.md
+    2  nano dhbox-work-today.md
+    3  dir
+    4  cd home
+    5  nano work-today.md
+    6  history
+deejsm@424106af759d:/home$
