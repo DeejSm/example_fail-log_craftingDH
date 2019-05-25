@@ -14,7 +14,7 @@ Next job is printing out some of the reading material for module 3 - can only re
 I set up the DH environment in week 1 without problem taking care of steps 1 through 3. But its not responding as I try to get back in through the bookmark I had set (two tries). Will try the workbook link - again not reachable. Gave up and created a new dh box.
 Have looked at the home page and then logged out and logged back in again. Selected file manager is fine. Selected command line and got a blank page on which I cannot type, paste or anything else.
 
-*Module 2 Work*
+*Module 1 Work*
 Will take these as far as I can despite the command line problem.
 
 Ecercise 1 - Explore the databases. Searched for a metal smith as occupation ie a Smith. Went to wordhippo.com and searched on smith. Found and used "faber ferrarius" but got an error message. Ah well, my ancestors may have been skilled artisans but often did not get into the top billing.
@@ -51,4 +51,7 @@ deejsm@424106af759d:/home$
 Saturday restart again - will do a ck on pandoc -v, then upload from my desktop the workhistory file
 no problem pandoc and uploading desktop version. No problem getting into Nano. But cannot open the workhistory file as a file for editing. When I finally did get the text it was still in a new buffer which meant ctl-X, Y, enter did not work as it wanted a file name. When I tried putting in a file name, message "permission denied". Have tried googling opening a file but no help found. And then I accidentally knocked myself out of the box so do not have the history of the keystrokes. Went back in and redid nano. I have to use the folder name ie home/name but the problem is that nano is opening the file in read only. Have sent a message directly to Sean Graham as this problem is not anything like the rest of the class is working on.
 
-In meantime go to exercise 3 and create repository hist3814o. Followed directions and I thought now that was nice and easy until I realized I could no longer see the fail-log. With some rooting about I found it. Will try to bring these fail logs into the hist repository
+In meantime go to exercise 3 and create repository hist3814o. Followed directions and I thought now that was nice and easy until I realized I could no longer see the fail-log. With some rooting about I found it. Will try to bring these fail logs into the hist repository. Can't see an easy way to clean up the repositories so I shall forget the housekeeping. At least done with module 2.
+
+*Module 2*
+Exercise 1 complete. Starting Milligan's tutorial. All straightforward except that I am denied permission to access the index page of activehistories much less anything else. Did a history and tried to pipe it through as a file and denied permission to do that. In disgust hit quit, forgetting to at least copy and save in a word file on my desktop. Sent more emails to Sean Graham. I will try again tomorrow using a different laptop in case this is a problem with my system left over from last year's flame-out crash. Will also focus tomorrow on the annotations so likely will again not get through the exercises.
