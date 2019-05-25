@@ -9,9 +9,9 @@ Created a new project "Work for DH Summer 2019". It appears to be a simple tool 
   
 I see I went wrong by not hitting create new file. I would like to bring my module 2 fail-log and this fail-log out from under "patch 2" so they are visible in the repository list. Will start here by copying this material and then going back to the repository to get a new file there. Seems to be working. I will next try to delete the patch 2 version. Did this on Thursday as it occured to me the TA would be looking for this at the url I put in the weekly report. (Just discovered a square bracket adds underlining)
 
-Next job is printing out some of the reading material for module 3 - can only read so much on-line. Material read. Very much enjoyed José Igartua's comments. Have been checking Slack but I need to have actually tried the exercises to make sense of the comments. and I still need to pull in through the virtual computer. Today's job.
+Next job is printing out some of the reading material for module 3 - can only read so much on-line. Material read. Very much enjoyed José Igartua's comments. Have been checking Slack but I need to have actually tried the exercises to make sense of the comments. And I still need to pull in through the virtual computer. Today's job.
 
-I set up the DH environment in week 1 without problem taking care of steps 1 through 3. But its not responding as I try to get back in through the bookmark I had set (two tries). Will try the workbook link - again not reachable. Gave up and created a new dh box.
+I set up the DH environment in week 1 without problem taking care of steps 1 through 3. But it's not responding as I try to get back in through the bookmark I had set (two tries). Will try the workbook link - again not reachable. Gave up and created a new dh box.
 Have looked at the home page and then logged out and logged back in again. Selected file manager is fine. Selected command line and got a blank page on which I cannot type, paste or anything else.
 
 *Module 1 Work*
@@ -24,13 +24,11 @@ Sell results url https://www.cwgc.org/find/find-war-dead/results?lastName=sell
 Downloaded the Sell file and then went to file manager and uploaded it to DH. as well as to my computer on the desktop as sellfile.csv Good thing as could not open the dhbox version in command but perhaps this is because it is a spreadsheet file. Will try later in the statistical tab.
 Overall No issues
 
-Friday - went back at the command line problem. Still not working. Reread the getting started messages and saw a suggestion to try a different browser. Pulled out my trusty Safari which I have not used in the Carleton environment for a number of years due to it hanging up constantly - according to the tech guys because Chrome was the standard I had to use. Copied the url for the sign-in page from the Chrome bookmark, put it in Safari, opened DH and signed-in etc, opened the Command Line tab and its there! Checked File manager and the sell file I put there last session still there. All well.
+Friday - went back at the command line problem. Still not working. Reread the getting started messages and saw a suggestion to try a different browser. Pulled out my trusty Safari which I have not used in the Carleton environment for a number of years due to it hanging up constantly - according to the tech guys because Chrome was the standard I had to use. Copied the url for the sign-in page from the Chrome bookmark, put it in Safari, opened DH and signed-in etc, opened the Command Line tab and it's there! Checked File manager and the sell file I put there last session still there. All well.
 But not quite as I am now using two browsers increasing the problem I already had with too many windows open. Also can't copy between the browsers increasing opportunity for error. Trumpeted the triumph which gave me a chance to figure out how to post a message on git.
-I will continue to work on module 2 until I am forced to go back to work on the git exercise.
+I will continue to work on module 1 and start trying to do module 2 until I am forced to go back to work on the git exercise.
 
-Module 2 - So much for triumph
-
-trying to find the workhistory file.
+Exercise 2 - trying to find the workhistory file.
 No directory, logging in with HOME=/
 deejsm@424106af759d:/$ nano dhbox-wk1-history.md
 deejsm@424106af759d:/$ nano dhbox-work-today.md
@@ -49,9 +47,9 @@ deejsm@424106af759d:/home$ history
 deejsm@424106af759d:/home$
 
 Saturday restart again - will do a ck on pandoc -v, then upload from my desktop the workhistory file
-no problem pandoc and uploading desktop version. No problem getting into Nano. But cannot open the workhistory file as a file for editing. When I finally did get the text it was still in a new buffer which meant ctl-X, Y, enter did not work as it wanted a file name. When I tried putting in a file name, message "permission denied". Have tried googling opening a file but no help found. And then I accidentally knocked myself out of the box so do not have the history of the keystrokes. Went back in and redid nano. I have to use the folder name ie home/name but the problem is that nano is opening the file in read only. Have sent a message directly to Sean Graham as this problem is not anything like the rest of the class is working on.
+no problem pandoc and uploading desktop version. No problem getting into Nano. But cannot open the workhistory file as a file for editing. When I finally did get the text, it was in a new buffer which meant ctl-X, Y, enter did not work as it wanted a file name. When I tried putting in a file name, message "permission denied". Have tried googling opening a file but no help found. And then I accidentally knocked myself out of the box so do not have the history of the keystrokes. Went back in and redid nano. I have to use the folder name ie home/name but the problem is that nano is opening the file in read only. Have sent a message directly to Sean Graham as this problem is not anything like the rest of the class is working on.
 
-In meantime go to exercise 3 and create repository hist3814o. Followed directions and I thought now that was nice and easy until I realized I could no longer see the fail-log. With some rooting about I found it. Will try to bring these fail logs into the hist repository. Can't see an easy way to clean up the repositories so I shall forget the housekeeping. At least done with module 2.
+In meantime go to exercise 3 and create repository hist3814o. Followed directions and I thought now that was nice and easy until I realized I could no longer see the fail-log. With some rooting about I found it. Will try to bring these fail logs into the hist repository. Can't see an easy way to clean up the repositories so I shall forget the housekeeping. At least done with module 1.
 
 *Module 2*
-Exercise 1 complete. Starting Milligan's tutorial. All straightforward except that I am denied permission to access the index page of activehistories much less anything else. Did a history and tried to pipe it through as a file and denied permission to do that. In disgust hit quit, forgetting to at least copy and save in a word file on my desktop. Sent more emails to Sean Graham. I will try again tomorrow using a different laptop in case this is a problem with my system left over from last year's flame-out crash. Will also focus tomorrow on the annotations so likely will again not get through the exercises.
+Exercise 1 completed earlier. Starting Milligan's tutorial. All straightforward except that I am denied permission to access the index page of activehistories much less anything else. Did a history and tried to pipe it through as a file and denied permission to do that. In disgust hit quit, forgetting to at least copy and save in a word file on my desktop. Sent more emails to Sean Graham. I will try again tomorrow using a different laptop in case this is a problem with my system left over from last year's flame-out crash. Will also focus tomorrow on the annotations so likely will again not get through the exercises.
