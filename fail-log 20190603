@@ -1,0 +1,20 @@
+  Finally the light dawned that perhaps the fault lay not in my computers, but in myself - that is, perhaps I had not read the dhbox instructions correctly in week 1 and had gone in the wrong door of the on-campus portal rather than the off-campus portal. I experimented by opening a second dhbox via vpn and tried to use it with nano and wget. All now beautiful. It seems it is possible to open up the on-campus dhbox entrypoint from off-campus but you cannot actually do much with it.
+  
+  Now that I have a working dhbox I did the Milligan tutorial and then went on to download the war diary. As seen below this was straight-forward copy what I saw in the guide into the command line and voila!
+  
+  1  urls = '';
+    2  f=open('urls.txt','w')
+    3  for x in range(8029, 8110):
+    4  f.close
+    5  ls
+    6  nano urls.py
+    7  python urls.py
+    8  ls
+    9  nano urls.txt
+   10  wget -1 urls.txt - r --no-parent -nd -w 2 --limit-rate=100k
+   11  wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k
+   12  ls
+   13  history
+   14  history > dhbox-wk-history-2_2.md
+   
+   I have not annotated this week. I discussed my areas of interest with Dr. Graham and we agreed I would focus on the modules for cleaning and using data now that I have wget working.
